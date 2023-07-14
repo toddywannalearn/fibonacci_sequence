@@ -1,3 +1,3 @@
-## Flutter Masterclass by Flutterando
+# Fibonacci Sequence
 
-Lesson: The creation of a recursive function that shows the Fibonacci Sequence
+This application creates a recursive function that shows the Fibonacci Sequence using Dart.
